@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <PDotRivers>
+   # PDotRivers
 
    # Input:
    # p, principal amount
